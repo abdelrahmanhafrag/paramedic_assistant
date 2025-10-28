@@ -1,0 +1,6 @@
+google-genai
+opencv-python
+pillow
+numpy<2
+pyaudio
+mss
